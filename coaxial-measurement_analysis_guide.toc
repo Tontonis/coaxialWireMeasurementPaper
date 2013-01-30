@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}Low Q-factor Impedances}{3}
+\contentsline {subsection}{\numberline {1.1}Classical Coaxial Wire Method}{3}
+\contentsline {subsection}{\numberline {1.2}Resonator Coaxial Wire Method}{5}
+\contentsline {subsection}{\numberline {1.3}Transverse Impedance Measurements}{8}
+\contentsline {subsubsection}{\numberline {1.3.1}Two Wire Measurements}{9}
+\contentsline {subsubsection}{\numberline {1.3.2}Structures with Top/Bottom, Left/Right Symmetry}{10}
+\contentsline {subsubsection}{\numberline {1.3.3}Asymmetric Structures}{13}
+\contentsline {subsection}{\numberline {1.4}Measurements on Example Geometries}{13}
+\contentsline {subsubsection}{\numberline {1.4.1}Structure with Top/Bottom, Left/Rght Symmetry}{15}
+\contentsline {subsubsection}{\numberline {1.4.2}Two Parallel Ferrite Plates}{15}
+\contentsline {subsubsection}{\numberline {1.4.3}Two Parallel Graphite Plates}{19}
+\contentsline {subsubsection}{\numberline {1.4.4}C-Core Ferrite Kicker}{22}

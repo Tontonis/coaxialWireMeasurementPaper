@@ -1,0 +1,34 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: coaxial-measurement_analysis_guide.aux
+A level-1 auxiliary file: introduction.aux
+White space in argument---line 12 of file coaxial-measurement_analysis_guide.aux
+ : \citation{Hahn:
+ :                 ValidityImpMeas}
+I'm skipping whatever remains of this command
+White space in argument---line 16 of file coaxial-measurement_analysis_guide.aux
+ : \citation{Hahn:
+ :                 ValidityImpMeas}
+I'm skipping whatever remains of this command
+The style file: IEEEtran.bst
+I couldn't open database file general_bibliography.bib
+---line 113 of file coaxial-measurement_analysis_guide.aux
+ : \bibdata{general_bibliography
+ :                              }
+I'm skipping whatever remains of this command
+I found no database files---while reading file coaxial-measurement_analysis_guide.aux
+Warning--I didn't find a database entry for "Gluckstern:WireMeasImp"
+Warning--I didn't find a database entry for "Vaccaro:ImprovedWireMeth"
+Warning--I didn't find a database entry for "Hahn:BenchMeasInter"
+Warning--I didn't find a database entry for "Jensen:ImprovLogForm"
+Warning--I didn't find a database entry for "Chao:PhysColEff"
+Warning--I didn't find a database entry for "Tsutsui:OnSingleWire"
+Warning--I didn't find a database entry for "Kroyer:lowFreqColImp"
+Warning--I didn't find a database entry for "Tsutsui:ferrKickLong"
+Warning--I didn't find a database entry for "Tsutsui:DipoleKicker"
+Warning--I didn't find a database entry for "Salvant:QuadKicker"
+Warning--I didn't find a database entry for "Zannini:cCoreFerrite"
+-- IEEEtran.bst version 1.13 (2008/09/30) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+
+Done.
+(There were 4 error messages)

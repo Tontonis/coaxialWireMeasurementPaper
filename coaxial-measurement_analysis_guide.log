@@ -1,0 +1,783 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.2.24)  30 JAN 2013 18:22
+entering extended mode
+**C:/Users/hugo/Documents/GitHub/coaxialWireMeasurementPaper/coaxial-measuremen
+t_analysis_guide.tex
+
+(C:/Users/hugo/Documents/GitHub/coaxialWireMeasurementPaper/coaxial-measurement
+_analysis_guide.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ieeepes\vmargin.sty"
+Package: vmargin 1999/06/01
+
+Package `vmargin', V2.2, <1999/06/01>
+\PaperWidth=\dimen103
+\PaperHeight=\dimen104
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.sty"
+Package: t1enc 1994/06/01 Standard LaTeX package
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\latin1.def"
+File: latin1.def 2008/03/30 v1.1d Input encoding file
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\times.sty"
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathcomp\mathcomp.sty"
+Package: mathcomp 2001/01/07 v0.1f (TBo)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\textcomp.sty"
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 311.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 312.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 313.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 314.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 315.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 316.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 317.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 318.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 319.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 320.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 321.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 322.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 323.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 324.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 326.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 327.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 328.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 329.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 330.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 331.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 332.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 333.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 334.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 335.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 336.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 337.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
+)
+\symTC=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `TC' in version `bold'
+(Font)                  TS1/cmr/m/n --> TS1/cmr/bx/n on input line 25.
+LaTeX Font Info:    Redeclaring math symbol \dagger on input line 47.
+LaTeX Font Info:    Redeclaring math symbol \ddagger on input line 48.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen105
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen106
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks17
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks18
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count99
+))
+\Gin@req@height=\dimen114
+\Gin@req@width=\dimen115
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.sty"
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip46
+\subfigcapskip=\skip47
+\subfigcaptopadj=\dimen116
+\subfigbottomskip=\skip48
+\subfigcapmargin=\dimen117
+\subfiglabelskip=\skip49
+\c@subfigure=\count100
+\c@lofdepth=\count101
+\c@subtable=\count102
+\c@lotdepth=\count103
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.cfg")
+\subfig@top=\skip50
+\subfig@bottom=\skip51
+)
+
+LaTeX Warning: Unused global option(s):
+    [twopage,openright].
+
+
+(C:\Users\hugo\Documents\GitHub\coaxialWireMeasurementPaper\coaxial-measurement
+_analysis_guide.aux
+(C:\Users\hugo\Documents\GitHub\coaxialWireMeasurementPaper\introduction.aux))
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 34.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 34.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count104
+\scratchdimen=\dimen118
+\scratchbox=\box28
+\nofMPsegments=\count105
+\nofMParguments=\count106
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count107
+\MPscratchDim=\dimen119
+\MPnumerator=\count108
+\makeMPintoPDFobject=\count109
+\everyMPtoPDFconversion=\toks23
+)
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 43.
+ [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 49.
+
+(C:\Users\hugo\Documents\GitHub\coaxialWireMeasurementPaper\coaxial-measurement
+_analysis_guide.toc
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 1.
+)
+\tf@toc=\write3
+ [2]
+No file introduction.tex.
+
+LaTeX Warning: Citation `Gluckstern:WireMeasImp' on page 3 undefined on input l
+ine 64.
+
+
+LaTeX Warning: Citation `Vaccaro:ImprovedWireMeth' on page 3 undefined on input
+ line 64.
+
+<figures/coaxial-particle-fields.pdf, id=10, 540.70004pt x 341.47577pt>
+File: figures/coaxial-particle-fields.pdf Graphic file (type pdf)
+
+<use figures/coaxial-particle-fields.pdf>
+Package pdftex.def Info: figures/coaxial-particle-fields.pdf used on input line
+ 71.
+(pdftex.def)             Requested size: 250.9558pt x 158.4928pt.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 77.
+
+
+LaTeX Warning: Citation `Vaccaro:ImprovedWireMeth' on page 3 undefined on input
+ line 79.
+
+[3
+
+
+ <C:/Users/hugo/Documents/GitHub/coaxialWireMeasurementPaper/figures/coaxial-pa
+rticle-fields.pdf>]
+<figures/wire_meas_single_wire.pdf, id=41, 369.90193pt x 284.56313pt>
+File: figures/wire_meas_single_wire.pdf Graphic file (type pdf)
+
+<use figures/wire_meas_single_wire.pdf>
+Package pdftex.def Info: figures/wire_meas_single_wire.pdf used on input line 9
+1.
+(pdftex.def)             Requested size: 250.9558pt x 193.06181pt.
+
+<figures/coax-matching-no-matching.png, id=42, 770.88pt x 557.08125pt>
+File: figures/coax-matching-no-matching.png Graphic file (type png)
+
+<use figures/coax-matching-no-matching.png>
+Package pdftex.def Info: figures/coax-matching-no-matching.png used on input li
+ne 99.
+(pdftex.def)             Requested size: 250.9558pt x 181.35527pt.
+
+
+LaTeX Warning: Citation `Hahn:BenchMeasInter' on page 4 undefined on input line
+ 113.
+
+
+LaTeX Warning: Citation `Hahn: ValidityImpMeas' on page 4 undefined on input li
+ne 113.
+
+[4 <C:/Users/hugo/Documents/GitHub/coaxialWireMeasurementPaper/figures/wire_mea
+s_single_wire.pdf>]
+
+LaTeX Warning: Citation `Hahn:BenchMeasInter' on page 5 undefined on input line
+ 119.
+
+
+LaTeX Warning: Citation `Hahn: ValidityImpMeas' on page 5 undefined on input li
+ne 119.
+
+
+LaTeX Warning: Citation `Jensen:ImprovLogForm' on page 5 undefined on input lin
+e 119.
+
+
+LaTeX Warning: Citation `Jensen:ImprovLogForm' on page 5 undefined on input lin
+e 131.
+
+[5 <C:/Users/hugo/Documents/GitHub/coaxialWireMeasurementPaper/figures/coax-mat
+ching-no-matching.png>]
+<figures/coax-resonator.png, id=72, 770.88pt x 557.08125pt>
+File: figures/coax-resonator.png Graphic file (type png)
+
+<use figures/coax-resonator.png>
+Package pdftex.def Info: figures/coax-resonator.png used on input line 186.
+(pdftex.def)             Requested size: 250.9558pt x 181.35527pt.
+
+Overfull \hbox (1.4377pt too wide) in paragraph at lines 192--193
+[]\T1/ptm/m/n/12 It is more in-volved too cal-cu-late the imag-i-nary impedance
+ us-ing the res-o-nant method.
+ []
+
+[6] [7 <C:/Users/hugo/Documents/GitHub/coaxialWireMeasurementPaper/figures/coax
+-resonator.png>]
+
+LaTeX Warning: Citation `Chao:PhysColEff' on page 8 undefined on input line 226
+.
+
+
+LaTeX Warning: Citation `Tsutsui:OnSingleWire' on page 8 undefined on input lin
+e 226.
+
+
+Overfull \hbox (2.49394pt too wide) in paragraph at lines 226--227
+\T1/ptm/m/n/12 verse impedances, let us first con-sider the gen-eral form of th
+e $\OML/cmm/m/it/12 m$\T1/ptm/m/n/12 -th or-der ($\OML/cmm/m/it/12 m \OT1/cmr/m
+/n/12 = 0\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 1\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12
+ 2\OML/cmm/m/it/12 ; :::$\T1/ptm/m/n/12 )
+ []
+
+[8] <figures/wire_meas_two_wire.pdf, id=87, 369.90193pt x 284.56313pt>
+File: figures/wire_meas_two_wire.pdf Graphic file (type pdf)
+
+<use figures/wire_meas_two_wire.pdf>
+Package pdftex.def Info: figures/wire_meas_two_wire.pdf used on input line 276.
+
+(pdftex.def)             Requested size: 250.9558pt x 193.06181pt.
+
+Underfull \hbox (badness 1325) in paragraph at lines 279--279
+[]\T1/ptm/m/n/12 Figure 5: Mea-sure-ment setup for mea-sure-ments of the dipo-l
+ar beam cou-pling
+ []
+
+
+LaTeX Warning: Reference `chap:wake_imp' on page 9 undefined on input line 284.
+
+
+
+Overfull \hbox (3.00902pt too wide) in paragraph at lines 284--285
+[]\T1/ptm/m/n/12 What is di-rectly mea-sured is the lon-gi-tu-di-nal impedance 
+of just the dipole impedance,
+ []
+
+
+LaTeX Warning: Citation `Tsutsui:OnSingleWire' on page 9 undefined on input lin
+e 286.
+
+[9 <C:/Users/hugo/Documents/GitHub/coaxialWireMeasurementPaper/figures/wire_mea
+s_two_wire.pdf>] [10]
+Overfull \hbox (26.16397pt too wide) in paragraph at lines 341--341
+[] 
+ []
+
+
+Overfull \hbox (53.25893pt too wide) in paragraph at lines 349--349
+[] 
+ []
+
+[11]
+Overfull \hbox (1.65329pt too wide) in paragraph at lines 382--382
+[] 
+ []
+
+[12]
+Overfull \hbox (70.15489pt too wide) in paragraph at lines 412--412
+[] 
+ []
+
+[13]
+
+LaTeX Warning: Citation `Kroyer:lowFreqColImp' on page 14 undefined on input li
+ne 446.
+
+
+LaTeX Warning: Citation `Tsutsui:ferrKickLong' on page 14 undefined on input li
+ne 484.
+
+
+LaTeX Warning: Citation `Tsutsui:DipoleKicker' on page 14 undefined on input li
+ne 484.
+
+
+LaTeX Warning: Citation `Salvant:QuadKicker' on page 14 undefined on input line
+ 484.
+
+[14] <figures/tsutsui-geometry.pdf, id=135, 341.47577pt x 313.04956pt>
+File: figures/tsutsui-geometry.pdf Graphic file (type pdf)
+
+<use figures/tsutsui-geometry.pdf>
+Package pdftex.def Info: figures/tsutsui-geometry.pdf used on input line 490.
+(pdftex.def)             Requested size: 188.21365pt x 172.5456pt.
+
+<figures/zannini-model-geo.pdf, id=136, 284.62335pt x 369.90193pt>
+File: figures/zannini-model-geo.pdf Graphic file (type pdf)
+
+<use figures/zannini-model-geo.pdf>
+Package pdftex.def Info: figures/zannini-model-geo.pdf used on input line 494.
+(pdftex.def)             Requested size: 188.21365pt x 244.61578pt.
+
+<figures/4A4FerrMu.pdf, id=137, 578.16pt x 433.62pt>
+File: figures/4A4FerrMu.pdf Graphic file (type pdf)
+
+<use figures/4A4FerrMu.pdf>
+Package pdftex.def Info: figures/4A4FerrMu.pdf used on input line 501.
+(pdftex.def)             Requested size: 188.21365pt x 141.1564pt.
+
+<figures/cross-section-coaxial-wire-measurements.png, id=138, 919.18407pt x 401
+.24907pt>
+File: figures/cross-section-coaxial-wire-measurements.png Graphic file (type pn
+g)
+ <use figures/cross-section-coaxial-wire-measurements.png>
+Package pdftex.def Info: figures/cross-section-coaxial-wire-measurements.png us
+ed on input line 509.
+(pdftex.def)             Requested size: 209.1277pt x 91.28735pt.
+ [15 <C:/Users/hugo/Documents/GitHub/coaxialWireMeasurementPaper/figures/tsutsu
+i-geometry.pdf> <C:/Users/hugo/Documents/GitHub/coaxialWireMeasurementPaper/fig
+ures/zannini-model-geo.pdf>] [16 <C:/Users/hugo/Documents/GitHub/coaxialWireMea
+surementPaper/figures/4A4FerrMu.pdf> <C:/Users/hugo/Documents/GitHub/coaxialWir
+eMeasurementPaper/figures/cross-section-coaxial-wire-measurements.png>]
+<figures/wire_meas/ferrite_plates/longitudinal-horizontal.pdf, id=220, 733.5404
+8pt x 500.46976pt>
+File: figures/wire_meas/ferrite_plates/longitudinal-horizontal.pdf Graphic file
+ (type pdf)
+
+<use figures/wire_meas/ferrite_plates/longitudinal-horizontal.pdf>
+Package pdftex.def Info: figures/wire_meas/ferrite_plates/longitudinal-horizont
+al.pdf used on input line 539.
+(pdftex.def)             Requested size: 209.1277pt x 142.68117pt.
+
+<figures/wire_meas/ferrite_plates/longitudinal-vertical.pdf, id=221, 596.2275pt
+ x 440.84702pt>
+File: figures/wire_meas/ferrite_plates/longitudinal-vertical.pdf Graphic file (
+type pdf)
+
+<use figures/wire_meas/ferrite_plates/longitudinal-vertical.pdf>
+Package pdftex.def Info: figures/wire_meas/ferrite_plates/longitudinal-vertical
+.pdf used on input line 543.
+(pdftex.def)             Requested size: 209.1277pt x 154.62837pt.
+
+Overfull \hbox (14.28001pt too wide) in paragraph at lines 539--544
+[][] [] 
+ []
+
+
+<figures/wire_meas/ferrite_plates/dipolar-horizontal.pdf, id=222, 731.73375pt x
+ 472.46513pt>
+File: figures/wire_meas/ferrite_plates/dipolar-horizontal.pdf Graphic file (typ
+e pdf)
+ <use figures/wire_meas/ferrite_plates/dipolar-horizontal.pdf>
+Package pdftex.def Info: figures/wire_meas/ferrite_plates/dipolar-horizontal.pd
+f used on input line 552.
+(pdftex.def)             Requested size: 209.1277pt x 135.02884pt.
+
+<figures/wire_meas/ferrite_plates/dipolar-vertical.pdf, id=223, 720.89326pt x 4
+66.1415pt>
+File: figures/wire_meas/ferrite_plates/dipolar-vertical.pdf Graphic file (type 
+pdf)
+ <use figures/wire_meas/ferrite_plates/dipolar-vertical.pdf>
+Package pdftex.def Info: figures/wire_meas/ferrite_plates/dipolar-vertical.pdf 
+used on input line 556.
+(pdftex.def)             Requested size: 209.1277pt x 135.22025pt.
+
+Overfull \hbox (14.28001pt too wide) in paragraph at lines 552--557
+[][] [] 
+ []
+
+
+<figures/wire_meas/ferrite_plates/quadrupolar-horizontal.pdf, id=224, 749.80125
+pt x 475.17525pt>
+File: figures/wire_meas/ferrite_plates/quadrupolar-horizontal.pdf Graphic file 
+(type pdf)
+
+<use figures/wire_meas/ferrite_plates/quadrupolar-horizontal.pdf>
+Package pdftex.def Info: figures/wire_meas/ferrite_plates/quadrupolar-horizonta
+l.pdf used on input line 565.
+(pdftex.def)             Requested size: 209.1277pt x 132.52611pt.
+
+<figures/wire_meas/ferrite_plates/quadrupolar-vertical.pdf, id=225, 636.87938pt
+ x 473.3685pt>
+File: figures/wire_meas/ferrite_plates/quadrupolar-vertical.pdf Graphic file (t
+ype pdf)
+ <use figures/wire_meas/ferrite_plates/quadrupolar-vertical.pdf>
+Package pdftex.def Info: figures/wire_meas/ferrite_plates/quadrupolar-vertical.
+pdf used on input line 569.
+(pdftex.def)             Requested size: 209.1277pt x 155.43199pt.
+
+Overfull \hbox (14.28001pt too wide) in paragraph at lines 565--570
+[][] [] 
+ []
+
+[17 <C:/Users/hugo/Documents/GitHub/coaxialWireMeasurementPaper/figures/wire_me
+as/ferrite_plates/longitudinal-horizontal.pdf> <C:/Users/hugo/Documents/GitHub/
+coaxialWireMeasurementPaper/figures/wire_meas/ferrite_plates/longitudinal-verti
+cal.pdf>] [18 <C:/Users/hugo/Documents/GitHub/coaxialWireMeasurementPaper/figur
+es/wire_meas/ferrite_plates/dipolar-horizontal.pdf> <C:/Users/hugo/Documents/Gi
+tHub/coaxialWireMeasurementPaper/figures/wire_meas/ferrite_plates/dipolar-verti
+cal.pdf> <C:/Users/hugo/Documents/GitHub/coaxialWireMeasurementPaper/figures/wi
+re_meas/ferrite_plates/quadrupolar-horizontal.pdf> <C:/Users/hugo/Documents/Git
+Hub/coaxialWireMeasurementPaper/figures/wire_meas/ferrite_plates/quadrupolar-ve
+rtical.pdf>] [19]
+<figures/wire_meas/graphite_plates/longitudinal-horizontal.pdf, id=670, 588.097
+15pt x 437.2335pt>
+File: figures/wire_meas/graphite_plates/longitudinal-horizontal.pdf Graphic fil
+e (type pdf)
+
+<use figures/wire_meas/graphite_plates/longitudinal-horizontal.pdf>
+Package pdftex.def Info: figures/wire_meas/graphite_plates/longitudinal-horizon
+tal.pdf used on input line 624.
+(pdftex.def)             Requested size: 209.1277pt x 155.47583pt.
+
+<figures/wire_meas/graphite_plates/longitudinal-vertical.pdf, id=671, 871.75688
+pt x 587.19376pt>
+File: figures/wire_meas/graphite_plates/longitudinal-vertical.pdf Graphic file 
+(type pdf)
+
+<use figures/wire_meas/graphite_plates/longitudinal-vertical.pdf>
+Package pdftex.def Info: figures/wire_meas/graphite_plates/longitudinal-vertica
+l.pdf used on input line 628.
+(pdftex.def)             Requested size: 209.1277pt x 140.8577pt.
+
+Overfull \hbox (14.28001pt too wide) in paragraph at lines 624--629
+[][] [] 
+ []
+
+[20]
+<figures/wire_meas/graphite_plates/dipolar-horizontal.pdf, id=675, 810.32736pt 
+x 599.84097pt>
+File: figures/wire_meas/graphite_plates/dipolar-horizontal.pdf Graphic file (ty
+pe pdf)
+ <use figures/wire_meas/graphite_plates/dipolar-horizontal.pdf>
+Package pdftex.def Info: figures/wire_meas/graphite_plates/dipolar-horizontal.p
+df used on input line 637.
+(pdftex.def)             Requested size: 209.1277pt x 154.80171pt.
+
+<figures/wire_meas/graphite_plates/dipolar-vertical.pdf, id=676, 956.6741pt x 6
+20.6186pt>
+File: figures/wire_meas/graphite_plates/dipolar-vertical.pdf Graphic file (type
+ pdf)
+ <use figures/wire_meas/graphite_plates/dipolar-vertical.pdf>
+Package pdftex.def Info: figures/wire_meas/graphite_plates/dipolar-vertical.pdf
+ used on input line 641.
+(pdftex.def)             Requested size: 209.1277pt x 135.66528pt.
+
+Overfull \hbox (14.28001pt too wide) in paragraph at lines 637--642
+[][] [] 
+ []
+
+
+<figures/wire_meas/graphite_plates/quadrupolar-horizontal.pdf, id=677, 816.6509
+7pt x 600.74437pt>
+File: figures/wire_meas/graphite_plates/quadrupolar-horizontal.pdf Graphic file
+ (type pdf)
+
+<use figures/wire_meas/graphite_plates/quadrupolar-horizontal.pdf>
+Package pdftex.def Info: figures/wire_meas/graphite_plates/quadrupolar-horizont
+al.pdf used on input line 650.
+(pdftex.def)             Requested size: 209.1277pt x 153.83403pt.
+
+
+LaTeX Warning: File `figures/wire_meas/graphite_plates/quadrupolar-vertical.pdf
+' not found on input line 654.
+
+
+! Package pdftex.def Error: File `figures/wire_meas/graphite_plates/quadrupolar
+-vertical.pdf' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.654 }
+       
+? 
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 654.
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd"
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+Overfull \hbox (14.28001pt too wide) in paragraph at lines 650--655
+[][] [] 
+ []
+
+[21 <C:/Users/hugo/Documents/GitHub/coaxialWireMeasurementPaper/figures/wire_me
+as/graphite_plates/longitudinal-horizontal.pdf> <C:/Users/hugo/Documents/GitHub
+/coaxialWireMeasurementPaper/figures/wire_meas/graphite_plates/longitudinal-ver
+tical.pdf> <C:/Users/hugo/Documents/GitHub/coaxialWireMeasurementPaper/figures/
+wire_meas/graphite_plates/dipolar-horizontal.pdf> <C:/Users/hugo/Documents/GitH
+ub/coaxialWireMeasurementPaper/figures/wire_meas/graphite_plates/dipolar-vertic
+al.pdf>]
+
+LaTeX Warning: Citation `Zannini:cCoreFerrite' on page 22 undefined on input li
+ne 665.
+
+[22 <C:/Users/hugo/Documents/GitHub/coaxialWireMeasurementPaper/figures/wire_me
+as/graphite_plates/quadrupolar-horizontal.pdf>]
+<figures/wire_meas/ferrite-c-core/longitudinal-impedance.pdf, id=1072, 578.16pt
+ x 433.62pt>
+File: figures/wire_meas/ferrite-c-core/longitudinal-impedance.pdf Graphic file 
+(type pdf)
+ <use figures/wire_meas/ferrite-c-core/longitudinal-impedance.pdf>
+Package pdftex.def Info: figures/wire_meas/ferrite-c-core/longitudinal-impedanc
+e.pdf used on input line 689.
+(pdftex.def)             Requested size: 195.18674pt x 146.39194pt.
+
+<figures/wire_meas/ferrite-c-core/dipolar-vertical-impedance.pdf, id=1073, 653.
+14014pt x 454.39764pt>
+File: figures/wire_meas/ferrite-c-core/dipolar-vertical-impedance.pdf Graphic f
+ile (type pdf)
+
+<use figures/wire_meas/ferrite-c-core/dipolar-vertical-impedance.pdf>
+Package pdftex.def Info: figures/wire_meas/ferrite-c-core/dipolar-vertical-impe
+dance.pdf used on input line 693.
+(pdftex.def)             Requested size: 210.41432pt x 146.39194pt.
+
+<figures/wire_meas/ferrite-c-core/quadrupolar-vertical-impedance.pdf, id=1074, 
+719.08652pt x 532.08784pt>
+File: figures/wire_meas/ferrite-c-core/quadrupolar-vertical-impedance.pdf Graph
+ic file (type pdf)
+
+<use figures/wire_meas/ferrite-c-core/quadrupolar-vertical-impedance.pdf>
+Package pdftex.def Info: figures/wire_meas/ferrite-c-core/quadrupolar-vertical-
+impedance.pdf used on input line 697.
+(pdftex.def)             Requested size: 197.84267pt x 146.39194pt.
+
+<figures/wire_meas/ferrite-c-core/constant-vertical-impedance.pdf, id=1075, 578
+.16pt x 433.62pt>
+File: figures/wire_meas/ferrite-c-core/constant-vertical-impedance.pdf Graphic 
+file (type pdf)
+
+<use figures/wire_meas/ferrite-c-core/constant-vertical-impedance.pdf>
+Package pdftex.def Info: figures/wire_meas/ferrite-c-core/constant-vertical-imp
+edance.pdf used on input line 701.
+(pdftex.def)             Requested size: 195.18674pt x 146.39194pt.
+
+Overfull \hbox (1.62567pt too wide) in paragraph at lines 689--702
+[][] []
+ []
+
+
+(C:\Users\hugo\Documents\GitHub\coaxialWireMeasurementPaper\coaxial-measurement
+_analysis_guide.bbl
+
+LaTeX Warning: Empty `thebibliography' environment on input line 24.
+
+) [23] [24 <C:/Users/hugo/Documents/GitHub/coaxialWireMeasurementPaper/figures/
+wire_meas/ferrite-c-core/longitudinal-impedance.pdf> <C:/Users/hugo/Documents/G
+itHub/coaxialWireMeasurementPaper/figures/wire_meas/ferrite-c-core/dipolar-vert
+ical-impedance.pdf> <C:/Users/hugo/Documents/GitHub/coaxialWireMeasurementPaper
+/figures/wire_meas/ferrite-c-core/quadrupolar-vertical-impedance.pdf> <C:/Users
+/hugo/Documents/GitHub/coaxialWireMeasurementPaper/figures/wire_meas/ferrite-c-
+core/constant-vertical-impedance.pdf>]
+(C:\Users\hugo\Documents\GitHub\coaxialWireMeasurementPaper\coaxial-measurement
+_analysis_guide.aux
+(C:\Users\hugo\Documents\GitHub\coaxialWireMeasurementPaper\introduction.aux))
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2792 strings out of 494045
+ 42979 string characters out of 3148390
+ 95381 words of memory out of 3000000
+ 6014 multiletter control sequences out of 15000+200000
+ 45902 words of font info for 66 fonts, out of 3000000 for 9000
+ 715 hyphenation exceptions out of 8191
+ 27i,11n,24p,1252b,288s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/time
+s/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb>
+Output written on coaxial-measurement_analysis_guide.pdf (24 pages, 1154262 byt
+es).
+PDF statistics:
+ 1417 PDF objects out of 1440 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+
