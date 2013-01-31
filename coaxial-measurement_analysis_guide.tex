@@ -1,4 +1,4 @@
-\documentclass[12pt,a4paper,twopage,openright]{article}
+\documentclass[review, number, sort&compress]{elsarticle}
 
 
 
@@ -17,43 +17,59 @@
 
 %Defining text font profile
 \usepackage{t1enc} % as usual
-\usepackage[latin1]{inputenc} % as usual
+\usepackage[utf8]{inputenc} % as usual
 \usepackage{times}	
 \usepackage{mathcomp}
 \usepackage{amsmath}
-\usepackage[pdftex]{graphicx}
+\usepackage{graphicx}
 \usepackage{subfigure}
+\usepackage{hyperref}
 
-\pagestyle{plain}
-\renewcommand{\topfraction}{0.99}
-\renewcommand{\bottomfraction}{0.99}
-\renewcommand{\textfraction}{0}
-
+\journal{Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment}
 
 
 \begin{document}
 %Plan
 %
-\title{Analysis Methodology for Coaxial Wire Measurements of Impedance}
-\author{Hugo Alistair Day}
-\date{May 2010}
-\maketitle
 
+\begin{frontmatter}
+\title{An Analysis Method for the Transverse Beam Coupling Impedance of Asymmetric Structures using the Coaxial Wire Method}
+
+\author[manchester,cockcroft,cern]{Hugo Alistair Day\corref{cor1}}
+\ead{hday@hep.manchester.ac.uk}
+\author[cern]{Elias Métral}
+\author[cern]{Fritz Caspers}
+\author[cern]{Benoit Salvant}
+\author[manchester,cockcroft]{Roger Jones}
+
+\cortext[cor1]{Corresponding author}
+
+\address[manchester]{School of Physics and Astronomy, The University of Manchester, Oxford Road, 
+Manchester, M13 9PL, UK}
+\address[cockcroft]{Cockcroft Institute of Science and Technology, 
+Daresbury, WA4 4AD, UK}
+\address[cern]{CERN-European Organization for Nuclear Research, 
+Geneva, Switzerland}
+
+\begin{keyword}
+beam coupling impedance \sep coaxial wire technique \sep impedance measurements \sep asymmetric
+\end{keyword}
 
 \begin{abstract}
 The analysis of data from the measurement of device impedance using the coaxial wire technique require a degree of understanding of both what is actually being measured by the method, and of what is being defined as a real and imaginary impedance. Through my own work I discovered a lack of clear definitions of how the data measured directly related to the quantities that we refer to from the point of view of particle motion. The idea of this document is to attempt to clarify how the quantities are related, and also give a clear guide as to how to analyse the experimental data to be compatible with a beam dynamics point of view. This presently a work in progress
 \end{abstract}
 
+\end{frontmatter}
+
 \newpage
 
-\tableofcontents
 
 % Introduction - Coaxial Wire Method
 % Wakefield Basics - Definiton of longitudinal, dipolar/driving, quadrupolar/detuning impedance
 % Analysis of transmission method
 % Analysis of resonator method
 %
-\include{introduction}
+
 
 
 Due to the sensitivity of the beam coupling impedance to the boundary conditions of the equipment used, it is necessary to utilise different measurement techniques to fully analyse the impedance of accelerator structures.
@@ -723,7 +739,7 @@ It can be seen that the proposed asymmetric method can replicate the beam coupli
 %
 %
 
-\bibliographystyle{IEEEtran}
-\bibliography{general_bibliography}
+\bibliographystyle{elsarticle-num}
+\bibliography{coaxWireMeasBib}
 
 \end{document}
