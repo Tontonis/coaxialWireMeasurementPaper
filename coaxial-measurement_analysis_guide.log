@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.2.24)  1 FEB 2013 10:41
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.2.24)  26 FEB 2013 17:37
 entering extended mode
 **C:/Users/hugo/Documents/GitHub/coaxialWireMeasurementPaper/coaxial-measuremen
 t_analysis_guide.tex
@@ -754,372 +754,247 @@ LaTeX Font Info:    Try loading font information for T1+pcr on input line 62.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd"
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
-<figures/coaxial-particle-fields.pdf, id=54, 540.70004pt x 341.47577pt>
-File: figures/coaxial-particle-fields.pdf Graphic file (type pdf)
-
-<use figures/coaxial-particle-fields.pdf>
-Package pdftex.def Info: figures/coaxial-particle-fields.pdf used on input line
- 85.
-(pdftex.def)             Requested size: 250.9558pt x 158.4928pt.
-
-Overfull \hbox (123.25981pt too wide) has occurred while \output is active
+Overfull \hbox (127.25981pt too wide) has occurred while \output is active
 \T1/ptm/m/it/8 Preprint submitted to Nuclear Instruments and Methods in Physics
  Research Section A: Accelerators, Spectrometers, Detectors and Associated Equi
-pment February 1, 2013
+pment February 26, 2013
  []
 
 [1
 
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-<figures/wire_meas_single_wire.pdf, id=78, 369.90193pt x 284.56313pt>
-File: figures/wire_meas_single_wire.pdf Graphic file (type pdf)
 
-<use figures/wire_meas_single_wire.pdf>
-Package pdftex.def Info: figures/wire_meas_single_wire.pdf used on input line 1
-05.
-(pdftex.def)             Requested size: 250.9558pt x 193.06181pt.
-
-<figures/coax-matching-no-matching.png, id=79, 770.88pt x 557.08125pt>
-File: figures/coax-matching-no-matching.png Graphic file (type png)
-
-<use figures/coax-matching-no-matching.png>
-Package pdftex.def Info: figures/coax-matching-no-matching.png used on input li
-ne 113.
-(pdftex.def)             Requested size: 250.9558pt x 181.35527pt.
- [2 <C:/Users/hugo/Documents/GitHub/coaxialWireMeasurementPaper/figures/coaxial
--particle-fields.pdf>] [3 <C:/Users/hugo/Documents/GitHub/coaxialWireMeasuremen
-tPaper/figures/wire_meas_single_wire.pdf> <C:/Users/hugo/Documents/GitHub/coaxi
-alWireMeasurementPaper/figures/coax-matching-no-matching.png>]
-
-Package natbib Warning: Citation `Hahn: ValidityImpMeas' on page 4 undefined on
- input line 127.
+LaTeX Warning: Reference `fig:coax-part-profile' on page 2 undefined on input l
+ine 83.
 
 
-Package natbib Warning: Citation `Hahn: ValidityImpMeas' on page 4 undefined on
- input line 133.
+Package natbib Warning: Citation `Hahn: ValidityImpMeas' on page 2 undefined on
+ input line 93.
 
-[4] <figures/coax-resonator.png, id=154, 770.88pt x 557.08125pt>
-File: figures/coax-resonator.png Graphic file (type png)
 
-<use figures/coax-resonator.png>
-Package pdftex.def Info: figures/coax-resonator.png used on input line 200.
-(pdftex.def)             Requested size: 250.9558pt x 181.35527pt.
- [5] [6 <C:/Users/hugo/Documents/GitHub/coaxialWireMeasurementPaper/figures/coa
-x-resonator.png>] [7]
-<figures/wire_meas_two_wire.pdf, id=197, 369.90193pt x 284.56313pt>
+Package natbib Warning: Citation `Hahn: ValidityImpMeas' on page 2 undefined on
+ input line 99.
+
+[2] [3]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 160.
+
+<figures/wire_meas_two_wire.pdf, id=99, 369.90193pt x 284.56313pt>
 File: figures/wire_meas_two_wire.pdf Graphic file (type pdf)
 
 <use figures/wire_meas_two_wire.pdf>
-Package pdftex.def Info: figures/wire_meas_two_wire.pdf used on input line 290.
+Package pdftex.def Info: figures/wire_meas_two_wire.pdf used on input line 166.
 
 (pdftex.def)             Requested size: 250.9558pt x 193.06181pt.
+ [4 <C:/Users/hugo/Documents/GitHub/coaxialWireMeasurementPaper/figures/wire_me
+as_two_wire.pdf>]
+
+LaTeX Warning: Reference `chap:wake_imp' on page 5 undefined on input line 174.
 
 
-LaTeX Warning: Reference `chap:wake_imp' on page 8 undefined on input line 298.
-
-
-[8 <C:/Users/hugo/Documents/GitHub/coaxialWireMeasurementPaper/figures/wire_mea
-s_two_wire.pdf>] [9] [10]
-Overfull \hbox (9.4543pt too wide) in paragraph at lines 426--426
-[] 
- []
-
-[11] [12] [13]
-<figures/tsutsui-geometry.pdf, id=289, 341.47577pt x 313.04956pt>
-File: figures/tsutsui-geometry.pdf Graphic file (type pdf)
-
-<use figures/tsutsui-geometry.pdf>
-Package pdftex.def Info: figures/tsutsui-geometry.pdf used on input line 504.
-(pdftex.def)             Requested size: 188.21365pt x 172.5456pt.
-
-<figures/zannini-model-geo.pdf, id=290, 284.62335pt x 369.90193pt>
-File: figures/zannini-model-geo.pdf Graphic file (type pdf)
-
-<use figures/zannini-model-geo.pdf>
-Package pdftex.def Info: figures/zannini-model-geo.pdf used on input line 508.
-(pdftex.def)             Requested size: 188.21365pt x 244.61578pt.
-
-<figures/4A4FerrMu.pdf, id=295, 578.16pt x 433.62pt>
+[5] [6] [7] <figures/4A4FerrMu.pdf, id=166, 578.16pt x 433.62pt>
 File: figures/4A4FerrMu.pdf Graphic file (type pdf)
 
 <use figures/4A4FerrMu.pdf>
-Package pdftex.def Info: figures/4A4FerrMu.pdf used on input line 515.
+Package pdftex.def Info: figures/4A4FerrMu.pdf used on input line 299.
 (pdftex.def)             Requested size: 188.21365pt x 141.1564pt.
 
-<figures/cross-section-coaxial-wire-measurements.png, id=296, 919.18407pt x 401
+<figures/cross-section-coaxial-wire-measurements.png, id=167, 919.18407pt x 401
 .24907pt>
 File: figures/cross-section-coaxial-wire-measurements.png Graphic file (type pn
 g)
  <use figures/cross-section-coaxial-wire-measurements.png>
 Package pdftex.def Info: figures/cross-section-coaxial-wire-measurements.png us
-ed on input line 523.
+ed on input line 307.
 (pdftex.def)             Requested size: 209.1277pt x 91.28735pt.
- [14 <C:/Users/hugo/Documents/GitHub/coaxialWireMeasurementPaper/figures/tsutsu
-i-geometry.pdf> <C:/Users/hugo/Documents/GitHub/coaxialWireMeasurementPaper/fig
-ures/zannini-model-geo.pdf>]
-<figures/wire_meas/ferrite_plates/longitudinal-horizontal.pdf, id=345, 733.5404
+ [8 <C:/Users/hugo/Documents/GitHub/coaxialWireMeasurementPaper/figures/4A4Ferr
+Mu.pdf> <C:/Users/hugo/Documents/GitHub/coaxialWireMeasurementPaper/figures/cro
+ss-section-coaxial-wire-measurements.png>]
+<figures/wire_meas/ferrite_plates/longitudinal-horizontal.pdf, id=215, 733.5404
 8pt x 500.46976pt>
 File: figures/wire_meas/ferrite_plates/longitudinal-horizontal.pdf Graphic file
  (type pdf)
 
 <use figures/wire_meas/ferrite_plates/longitudinal-horizontal.pdf>
 Package pdftex.def Info: figures/wire_meas/ferrite_plates/longitudinal-horizont
-al.pdf used on input line 553.
+al.pdf used on input line 336.
 (pdftex.def)             Requested size: 209.1277pt x 142.68117pt.
 
-<figures/wire_meas/ferrite_plates/longitudinal-vertical.pdf, id=346, 596.2275pt
+<figures/wire_meas/ferrite_plates/longitudinal-vertical.pdf, id=216, 596.2275pt
  x 440.84702pt>
 File: figures/wire_meas/ferrite_plates/longitudinal-vertical.pdf Graphic file (
 type pdf)
 
 <use figures/wire_meas/ferrite_plates/longitudinal-vertical.pdf>
 Package pdftex.def Info: figures/wire_meas/ferrite_plates/longitudinal-vertical
-.pdf used on input line 557.
+.pdf used on input line 340.
 (pdftex.def)             Requested size: 209.1277pt x 154.62837pt.
 
-Overfull \hbox (11.90001pt too wide) in paragraph at lines 553--558
+Overfull \hbox (11.90001pt too wide) in paragraph at lines 336--341
 [][] [][] 
  []
 
 
-<figures/wire_meas/ferrite_plates/dipolar-horizontal.pdf, id=351, 731.73375pt x
+<figures/wire_meas/ferrite_plates/dipolar-horizontal.pdf, id=221, 731.73375pt x
  472.46513pt>
 File: figures/wire_meas/ferrite_plates/dipolar-horizontal.pdf Graphic file (typ
 e pdf)
  <use figures/wire_meas/ferrite_plates/dipolar-horizontal.pdf>
 Package pdftex.def Info: figures/wire_meas/ferrite_plates/dipolar-horizontal.pd
-f used on input line 566.
+f used on input line 349.
 (pdftex.def)             Requested size: 209.1277pt x 135.02884pt.
 
-<figures/wire_meas/ferrite_plates/dipolar-vertical.pdf, id=352, 720.89326pt x 4
+<figures/wire_meas/ferrite_plates/dipolar-vertical.pdf, id=222, 720.89326pt x 4
 66.1415pt>
 File: figures/wire_meas/ferrite_plates/dipolar-vertical.pdf Graphic file (type 
 pdf)
  <use figures/wire_meas/ferrite_plates/dipolar-vertical.pdf>
 Package pdftex.def Info: figures/wire_meas/ferrite_plates/dipolar-vertical.pdf 
-used on input line 570.
+used on input line 353.
 (pdftex.def)             Requested size: 209.1277pt x 135.22025pt.
 
-Overfull \hbox (11.90001pt too wide) in paragraph at lines 566--571
+Overfull \hbox (11.90001pt too wide) in paragraph at lines 349--354
 [][] [][] 
  []
 
 
-<figures/wire_meas/ferrite_plates/quadrupolar-horizontal.pdf, id=357, 749.80125
+<figures/wire_meas/ferrite_plates/quadrupolar-horizontal.pdf, id=227, 749.80125
 pt x 475.17525pt>
 File: figures/wire_meas/ferrite_plates/quadrupolar-horizontal.pdf Graphic file 
 (type pdf)
 
 <use figures/wire_meas/ferrite_plates/quadrupolar-horizontal.pdf>
 Package pdftex.def Info: figures/wire_meas/ferrite_plates/quadrupolar-horizonta
-l.pdf used on input line 579.
+l.pdf used on input line 362.
 (pdftex.def)             Requested size: 209.1277pt x 132.52611pt.
 
-<figures/wire_meas/ferrite_plates/quadrupolar-vertical.pdf, id=358, 636.87938pt
+<figures/wire_meas/ferrite_plates/quadrupolar-vertical.pdf, id=228, 636.87938pt
  x 473.3685pt>
 File: figures/wire_meas/ferrite_plates/quadrupolar-vertical.pdf Graphic file (t
 ype pdf)
  <use figures/wire_meas/ferrite_plates/quadrupolar-vertical.pdf>
 Package pdftex.def Info: figures/wire_meas/ferrite_plates/quadrupolar-vertical.
-pdf used on input line 583.
+pdf used on input line 366.
 (pdftex.def)             Requested size: 209.1277pt x 155.43199pt.
 
-Overfull \hbox (11.90001pt too wide) in paragraph at lines 579--584
+Overfull \hbox (11.90001pt too wide) in paragraph at lines 362--367
 [][] [][] 
  []
 
-[15 <C:/Users/hugo/Documents/GitHub/coaxialWireMeasurementPaper/figures/4A4Ferr
-Mu.pdf> <C:/Users/hugo/Documents/GitHub/coaxialWireMeasurementPaper/figures/cro
-ss-section-coaxial-wire-measurements.png>] [16 <C:/Users/hugo/Documents/GitHub/
-coaxialWireMeasurementPaper/figures/wire_meas/ferrite_plates/longitudinal-horiz
-ontal.pdf> <C:/Users/hugo/Documents/GitHub/coaxialWireMeasurementPaper/figures/
-wire_meas/ferrite_plates/longitudinal-vertical.pdf> <C:/Users/hugo/Documents/Gi
-tHub/coaxialWireMeasurementPaper/figures/wire_meas/ferrite_plates/dipolar-horiz
-ontal.pdf> <C:/Users/hugo/Documents/GitHub/coaxialWireMeasurementPaper/figures/
-wire_meas/ferrite_plates/dipolar-vertical.pdf> <C:/Users/hugo/Documents/GitHub/
-coaxialWireMeasurementPaper/figures/wire_meas/ferrite_plates/quadrupolar-horizo
-ntal.pdf> <C:/Users/hugo/Documents/GitHub/coaxialWireMeasurementPaper/figures/w
-ire_meas/ferrite_plates/quadrupolar-vertical.pdf>] [17]
-<figures/wire_meas/graphite_plates/longitudinal-horizontal.pdf, id=867, 588.097
-15pt x 437.2335pt>
-File: figures/wire_meas/graphite_plates/longitudinal-horizontal.pdf Graphic fil
-e (type pdf)
-
-<use figures/wire_meas/graphite_plates/longitudinal-horizontal.pdf>
-Package pdftex.def Info: figures/wire_meas/graphite_plates/longitudinal-horizon
-tal.pdf used on input line 638.
-(pdftex.def)             Requested size: 209.1277pt x 155.47583pt.
-
-<figures/wire_meas/graphite_plates/longitudinal-vertical.pdf, id=868, 871.75688
-pt x 587.19376pt>
-File: figures/wire_meas/graphite_plates/longitudinal-vertical.pdf Graphic file 
-(type pdf)
-
-<use figures/wire_meas/graphite_plates/longitudinal-vertical.pdf>
-Package pdftex.def Info: figures/wire_meas/graphite_plates/longitudinal-vertica
-l.pdf used on input line 642.
-(pdftex.def)             Requested size: 209.1277pt x 140.8577pt.
-
-Overfull \hbox (11.90001pt too wide) in paragraph at lines 638--643
-[][] [][] 
+[9 <C:/Users/hugo/Documents/GitHub/coaxialWireMeasurementPaper/figures/wire_mea
+s/ferrite_plates/longitudinal-horizontal.pdf> <C:/Users/hugo/Documents/GitHub/c
+oaxialWireMeasurementPaper/figures/wire_meas/ferrite_plates/longitudinal-vertic
+al.pdf>] [10 <C:/Users/hugo/Documents/GitHub/coaxialWireMeasurementPaper/figure
+s/wire_meas/ferrite_plates/dipolar-horizontal.pdf> <C:/Users/hugo/Documents/Git
+Hub/coaxialWireMeasurementPaper/figures/wire_meas/ferrite_plates/dipolar-vertic
+al.pdf> <C:/Users/hugo/Documents/GitHub/coaxialWireMeasurementPaper/figures/wir
+e_meas/ferrite_plates/quadrupolar-horizontal.pdf> <C:/Users/hugo/Documents/GitH
+ub/coaxialWireMeasurementPaper/figures/wire_meas/ferrite_plates/quadrupolar-ver
+tical.pdf>]
+Overfull \hbox (9.4543pt too wide) in paragraph at lines 389--389
+[] 
  []
 
+[11]
 
-<figures/wire_meas/graphite_plates/dipolar-horizontal.pdf, id=873, 810.32736pt 
-x 599.84097pt>
-File: figures/wire_meas/graphite_plates/dipolar-horizontal.pdf Graphic file (ty
-pe pdf)
- <use figures/wire_meas/graphite_plates/dipolar-horizontal.pdf>
-Package pdftex.def Info: figures/wire_meas/graphite_plates/dipolar-horizontal.p
-df used on input line 651.
-(pdftex.def)             Requested size: 209.1277pt x 154.80171pt.
-
-<figures/wire_meas/graphite_plates/dipolar-vertical.pdf, id=874, 956.6741pt x 6
-20.6186pt>
-File: figures/wire_meas/graphite_plates/dipolar-vertical.pdf Graphic file (type
- pdf)
- <use figures/wire_meas/graphite_plates/dipolar-vertical.pdf>
-Package pdftex.def Info: figures/wire_meas/graphite_plates/dipolar-vertical.pdf
- used on input line 655.
-(pdftex.def)             Requested size: 209.1277pt x 135.66528pt.
-
-Overfull \hbox (11.90001pt too wide) in paragraph at lines 651--656
-[][] [][] 
- []
+LaTeX Warning: Reference `fig:zannini-model' on page 12 undefined on input line
+ 418.
 
 
-<figures/wire_meas/graphite_plates/quadrupolar-horizontal.pdf, id=879, 816.6509
-7pt x 600.74437pt>
-File: figures/wire_meas/graphite_plates/quadrupolar-horizontal.pdf Graphic file
- (type pdf)
-
-<use figures/wire_meas/graphite_plates/quadrupolar-horizontal.pdf>
-Package pdftex.def Info: figures/wire_meas/graphite_plates/quadrupolar-horizont
-al.pdf used on input line 664.
-(pdftex.def)             Requested size: 209.1277pt x 153.83403pt.
-
-
-LaTeX Warning: File `figures/wire_meas/graphite_plates/quadrupolar-vertical.pdf
-' not found on input line 668.
-
-
-! Package pdftex.def Error: File `figures/wire_meas/graphite_plates/quadrupolar
--vertical.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.668 }
-       
-? 
-
-Overfull \hbox (11.90001pt too wide) in paragraph at lines 664--669
-[][] [][] 
- []
-
-[18] [19 <C:/Users/hugo/Documents/GitHub/coaxialWireMeasurementPaper/figures/wi
-re_meas/graphite_plates/longitudinal-horizontal.pdf> <C:/Users/hugo/Documents/G
-itHub/coaxialWireMeasurementPaper/figures/wire_meas/graphite_plates/longitudina
-l-vertical.pdf> <C:/Users/hugo/Documents/GitHub/coaxialWireMeasurementPaper/fig
-ures/wire_meas/graphite_plates/dipolar-horizontal.pdf> <C:/Users/hugo/Documents
-/GitHub/coaxialWireMeasurementPaper/figures/wire_meas/graphite_plates/dipolar-v
-ertical.pdf>] [20 <C:/Users/hugo/Documents/GitHub/coaxialWireMeasurementPaper/f
-igures/wire_meas/graphite_plates/quadrupolar-horizontal.pdf>]
-<figures/wire_meas/ferrite-c-core/longitudinal-impedance.pdf, id=1309, 578.16pt
- x 433.62pt>
+<figures/wire_meas/ferrite-c-core/longitudinal-impedance.pdf, id=700, 578.16pt 
+x 433.62pt>
 File: figures/wire_meas/ferrite-c-core/longitudinal-impedance.pdf Graphic file 
 (type pdf)
  <use figures/wire_meas/ferrite-c-core/longitudinal-impedance.pdf>
 Package pdftex.def Info: figures/wire_meas/ferrite-c-core/longitudinal-impedanc
-e.pdf used on input line 703.
+e.pdf used on input line 442.
 (pdftex.def)             Requested size: 195.18674pt x 146.39194pt.
 
-<figures/wire_meas/ferrite-c-core/dipolar-vertical-impedance.pdf, id=1310, 653.
-14014pt x 454.39764pt>
+<figures/wire_meas/ferrite-c-core/dipolar-vertical-impedance.pdf, id=701, 653.1
+4014pt x 454.39764pt>
 File: figures/wire_meas/ferrite-c-core/dipolar-vertical-impedance.pdf Graphic f
 ile (type pdf)
 
 <use figures/wire_meas/ferrite-c-core/dipolar-vertical-impedance.pdf>
 Package pdftex.def Info: figures/wire_meas/ferrite-c-core/dipolar-vertical-impe
-dance.pdf used on input line 707.
+dance.pdf used on input line 446.
 (pdftex.def)             Requested size: 210.41432pt x 146.39194pt.
 
-<figures/wire_meas/ferrite-c-core/quadrupolar-vertical-impedance.pdf, id=1311, 
-719.08652pt x 532.08784pt>
+<figures/wire_meas/ferrite-c-core/quadrupolar-vertical-impedance.pdf, id=702, 7
+19.08652pt x 532.08784pt>
 File: figures/wire_meas/ferrite-c-core/quadrupolar-vertical-impedance.pdf Graph
 ic file (type pdf)
 
 <use figures/wire_meas/ferrite-c-core/quadrupolar-vertical-impedance.pdf>
 Package pdftex.def Info: figures/wire_meas/ferrite-c-core/quadrupolar-vertical-
-impedance.pdf used on input line 711.
+impedance.pdf used on input line 450.
 (pdftex.def)             Requested size: 197.84267pt x 146.39194pt.
 
-<figures/wire_meas/ferrite-c-core/constant-vertical-impedance.pdf, id=1312, 578
-.16pt x 433.62pt>
+<figures/wire_meas/ferrite-c-core/constant-vertical-impedance.pdf, id=703, 578.
+16pt x 433.62pt>
 File: figures/wire_meas/ferrite-c-core/constant-vertical-impedance.pdf Graphic 
 file (type pdf)
 
 <use figures/wire_meas/ferrite-c-core/constant-vertical-impedance.pdf>
 Package pdftex.def Info: figures/wire_meas/ferrite-c-core/constant-vertical-imp
-edance.pdf used on input line 715.
+edance.pdf used on input line 454.
 (pdftex.def)             Requested size: 195.18674pt x 146.39194pt.
-
+ [12]
+[13 <C:/Users/hugo/Documents/GitHub/coaxialWireMeasurementPaper/figures/wire_me
+as/ferrite-c-core/longitudinal-impedance.pdf> <C:/Users/hugo/Documents/GitHub/c
+oaxialWireMeasurementPaper/figures/wire_meas/ferrite-c-core/dipolar-vertical-im
+pedance.pdf> <C:/Users/hugo/Documents/GitHub/coaxialWireMeasurementPaper/figure
+s/wire_meas/ferrite-c-core/quadrupolar-vertical-impedance.pdf> <C:/Users/hugo/D
+ocuments/GitHub/coaxialWireMeasurementPaper/figures/wire_meas/ferrite-c-core/co
+nstant-vertical-impedance.pdf>]
 (C:\Users\hugo\Documents\GitHub\coaxialWireMeasurementPaper\coaxial-measurement
-_analysis_guide.bbl [21] [22 <C:/Users/hugo/Documents/GitHub/coaxialWireMeasure
-mentPaper/figures/wire_meas/ferrite-c-core/longitudinal-impedance.pdf> <C:/User
-s/hugo/Documents/GitHub/coaxialWireMeasurementPaper/figures/wire_meas/ferrite-c
--core/dipolar-vertical-impedance.pdf> <C:/Users/hugo/Documents/GitHub/coaxialWi
-reMeasurementPaper/figures/wire_meas/ferrite-c-core/quadrupolar-vertical-impeda
-nce.pdf> <C:/Users/hugo/Documents/GitHub/coaxialWireMeasurementPaper/figures/wi
-re_meas/ferrite-c-core/constant-vertical-impedance.pdf>])
+_analysis_guide.bbl)
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 743.
-[23]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 743.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 472.
+[14]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 472.
 
 (C:\Users\hugo\Documents\GitHub\coaxialWireMeasurementPaper\coaxial-measurement
 _analysis_guide.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 743.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 743.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 472.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 472.
 Package rerunfilecheck Info: File `coaxial-measurement_analysis_guide.out' has 
 not changed.
-(rerunfilecheck)             Checksum: 176D06697346CE21993E1407F7CFD860;1017.
+(rerunfilecheck)             Checksum: 7855DC79CABBB1D16E3639CE421F0609;778.
 
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 7371 strings out of 494045
- 108541 string characters out of 3148390
- 205594 words of memory out of 3000000
- 10366 multiletter control sequences out of 15000+200000
+ 7213 strings out of 494045
+ 104170 string characters out of 3148390
+ 200872 words of memory out of 3000000
+ 10280 multiletter control sequences out of 15000+200000
  40594 words of font info for 59 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 34i,11n,30p,1252b,431s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 34i,11n,30p,1229b,403s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/public/amsfonts/cm/cmbx7.pfb><C:/Program Files/MiKTeX 2.9/font
 s/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
 public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
 msfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pf
-b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Prog
-ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Program Files/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/ur
-w/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.
-pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program F
-iles/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on coaxial-measurement_analysis_guide.pdf (23 pages, 1213879 byt
-es).
+m/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8
+a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on coaxial-measurement_analysis_guide.pdf (14 pages, 700241 byte
+s).
 PDF statistics:
- 1727 PDF objects out of 1728 (max. 8388607)
- 162 named destinations out of 1000 (max. 500000)
- 217 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1103 PDF objects out of 1200 (max. 8388607)
+ 97 named destinations out of 1000 (max. 500000)
+ 138 words of extra memory for PDF output out of 10000 (max. 10000000)
 

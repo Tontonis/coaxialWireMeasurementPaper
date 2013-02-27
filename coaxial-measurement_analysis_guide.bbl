@@ -1,18 +1,9 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{1}
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{\texttt{#1}}\fi
 \expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
 \expandafter\ifx\csname href\endcsname\relax
   \def\href#1#2{#2} \def\path#1{#1}\fi
-
-\bibitem{Gluckstern:WireMeasImp}
-R.~L. Gluckstern, R.~Li, Analysis of coaxial wire measurement of longitudinal
-  coupling impedance, Part. Accel. 29~(DOE-ER-10666-1. CONF-890803-7) (1989)
-  159--166. 8 p.
-
-\bibitem{Vaccaro:ImprovedWireMeth}
-V.~G. Vaccaro, Coupling impedance measurements: an improved wire method, Tech.
-  Rep. INFN-TC-94-023, INFN, Rome (Nov 1994).
 
 \bibitem{Hahn:BenchMeasInter}
 H.~Hahn,
@@ -34,25 +25,6 @@ A.~W. Chao, Physics of collective beam instabilities in high energy
 \bibitem{Tsutsui:OnSingleWire}
 H.~Tsutsui, On single wire technique for transverse coupling impedance
   measurement, Tech. Rep. SL-Note-2002-034-AP, CERN, Geneva (Oct 2002).
-
-\bibitem{Kroyer:lowFreqColImp}
-T.~Kroyer, Simulation of the low-frequency collimator impedance, Tech. Rep.
-  CERN-AB-Note-2008-017, CERN, Geneva (Apr 2008).
-
-\bibitem{Tsutsui:ferrKickLong}
-H.~Tsutsui, Some simplified models of ferrite kicker magnet for calculation of
-  longitudinal coupling impedance, Tech. Rep. CERN-SL-2000-004-AP, CERN, Geneva
-  (Jan 2000).
-
-\bibitem{Tsutsui:DipoleKicker}
-H.~Tsutsui, L.~Vos, Transverse coupling impedance of a simplified ferrite
-  kicker magnet model, Tech. Rep. LHC-PROJECT-NOTE-234, CERN, Geneva (Sep
-  2000).
-
-\bibitem{Salvant:QuadKicker}
-B.~Salvant, N.~Mounet, C.~Zannini, E.~Métral, G.~Rumolo, Quadrupolar
-  transverse impedance of simple models of kickers, Tech. Rep.
-  CERN-ATS-2010-076 (Jun 2010).
 
 \bibitem{Zannini:cCoreFerrite}
 C.~Zannini, G.~Rumolo, V.~Vaccaro, Effect of the tem mode on the kicker
