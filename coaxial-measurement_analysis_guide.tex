@@ -80,27 +80,35 @@ The structure of the paper is as follows: Sec.~\ref{sec:coAxMeas} briefly introd
 \section{Coaxial Wire Measurements of Beam Impedance}
 \label{sec:coAxMeas}
 
-A moving charged particle produces an electromagnetic field in a arc transverse to its direction of motion, where the angle of the arc opening is proportinal to the relativistic factor of the particle $\gamma$. For an ultrarelativistic particle ($\gamma \leftarrow \infty$), the field becomes entirely perpendicular to the direction of motion. If we place a conductive wire along the same path we would expect the charged particle to take (in most cases this is well represented by a straight wire), a short electrical pulse sent along this wire would propogate in the TEM (transverse electrical and magnetic field) mode, producing a field profile similar to that emitted by the ultrarelativistic charged particle (see. Fig. \ref{fig:coax-part-profile})
+A moving charged particle produces an electromagnetic field in a arc transverse to its direction of motion, where the angle of the arc opening is inversely proportional to the relativistic factor of the particle $\gamma$. For an ultrarelativistic particle ($\gamma \rightarrow \infty$), the field becomes entirely perpendicular to the direction of motion. If we place a conductive wire along the same path we would expect the charged particle to take (in most cases this is well represented by a straight wire), a short electrical pulse sent along this wire would propogate in the TEM (transverse electrical and magnetic field) mode, producing a field profile similar to that emitted by the ultrarelativistic charged particle (see. Fig. \ref{fig:coax-part-profile})
+
+\begin{figure}
+\begin{center}
+\includegraphics[width=0.6\textwidth]{figures/coaxial-particle-fields.pdf}
+\end{center}
+\caption{Comparison of the electromagnetic field profile of a moving charged particle and a short time pulse propagating along a coaxial wire.}
+\label{fig:coax-part-profile}
+\end{figure}
 
 The value that we wish to measure to evaluate the beam coupling impedance of a device are the scattering parameters of the resulting circuit, in particular $S_{21}$, the normalised transmission parameter through the DUT. $S_{21}$ is calculated by taking the measured transmission parameter $S_{21,DUT}$ and dividing it by the transmission parameter through a reference line of the same physical length as the DUT,
 
 \begin{equation}
-S_{21} = \frac{S_{21,DUT}}{S_{21,REF}}
-\end{equation}.
+S_{21} = \frac{S_{21,DUT}}{S_{21,REF}}.
+\end{equation}
 
 The effect of this is to correct the measured phase change in the DUT to be that only caused by the imaginary component of the beam coupling impedance.
 
-There are subsequently a number of ways to evaluate the beam coupling impedance of the DUT depending on it's expected properties. For devices that are expected to have a either a small impedance, or those that are physically very short in length, it is possible to use the so called lumped impedance formula \cite{Hahn:BenchMeasInter, Hahn: ValidityImpMeas};
+There are subsequently a number of ways to evaluate the beam coupling impedance of the DUT depending on it's expected properties. For devices that are expected to have a either a small impedance, or those that are physically very short in length, it is possible to use the so called lumped impedance formula \cite{Hahn:BenchMeasInter, Hahn:ValidityImpMeas};
 
 \begin{equation}
-Z = 2Z_{c} \frac{1-S_{21}}{S_{21}}
-\end{equation}.
+Z = 2Z_{c} \frac{1-S_{21}}{S_{21}}.
+\end{equation}
 
-For distributed impedances, it is suitable to use the so called log formula (called so due to attenuation causing a log function to appear in the evaluation) \cite{Hahn:BenchMeasInter, Hahn: ValidityImpMeas, Jensen:ImprovLogForm},
+For distributed impedances, it is suitable to use the so called log formula (called so due to attenuation causing a log function to appear in the evaluation) \cite{Hahn:BenchMeasInter, Hahn:ValidityImpMeas, Jensen:ImprovLogForm},
 
 \begin{equation}
-Z = -2Z_{c} ln \left( S_{21} \right)
-\end{equation}.
+Z = -2Z_{c} ln \left( S_{21} \right).
+\end{equation}
 
 For long components or measurements at very high frequencies there exists the improved log formula. This takes into account more completely the electrical length of the device, given by
 
@@ -113,7 +121,7 @@ where $\Theta = 2\pi \frac{L}{\lambda}$ is the normalised electrical length of t
 \section{Formalism of the Coaxial Wire in the Device Under Test}
 \label{sec:MathematicalFormalism}
 
-To allow a complete explanation of how to verify the methods of measuring transverse impedances, let us first consider the general form of the $m$-th order ($m = 0, 1, 2,...$) longitudinal beam coupling impedance, given by \cite{Chao:PhysColEff, Tsutsui:OnSingleWire}
+To derive the measurements required to allow the calculation of the transverse impedances of the measured device under test it is first necessary to consider the relationship of the beam impedance to be measured, and the current of the coaxial wire. First consider the general form of the $m$-th order ($m = 0, 1, 2,...$) longitudinal beam coupling impedance, given by \cite{Chao:PhysColEff, Tsutsui:OnSingleWire}
 
 \begin{equation}
 \bar{Z}_{m} = \frac{-1}{I^{2}} \int dV \mathbf{\bar{E}_{m}. \bar{J}_{m}^{*}}
@@ -136,7 +144,7 @@ Z_{m,n} = \frac{-1}{I^{2}} \int dV \mathbf{E_{m}. J_{n}^{*}}
 where
 
 \begin{equation}
-\mathbf{J_{m}} = \frac{I}{\pi a^{|m |+1}} \delta \left( r - a \right) exp \left(j m \theta \right) exp \left( j \left( \omega t - k z  \right) \right) \mathbf{e_{z}}.
+\mathbf{J_{m}} = \frac{I}{2 \pi a^{|m |+1}} \delta \left( r - a \right) exp \left(j m \theta \right) exp \left( j \left( \omega t - k z  \right) \right) \mathbf{e_{z}}.
 \end{equation}
 
 Importantly, this allows us to see that 
@@ -155,7 +163,7 @@ From here we use the principle of superposition for electromagnetic fields (i.e.
 \bar{Z}_{m} &= Z_{m,m} + Z_{m,-m} + Z_{-m,m} + Z_{-m,-m}, m=1,2,...
 \end{align}
 
-From this start we will apply this two both two wire measurements and to displaced single wire measurements.
+From this start we will apply this to both two wire measurements and to displaced single wire measurements.
 
 \subsubsection{Two Wire Measurements}
 
@@ -165,13 +173,13 @@ It is possible to directly measure the dipolar impedance of a device through the
 \begin{center}
 \includegraphics[width=0.6\textwidth]{figures/wire_meas_two_wire.pdf}
 \end{center}
-\label{fig:two_wire_measure}
 \caption{Measurement setup for measurements of the dipolar beam coupling impedance using the two wire setup for the classical coaxial wire method.}
+\label{fig:two_wire_measure}
 \end{figure}
 
-The measurements are done in the same way as described in the previous sections for either the classical transmission method or the resonator method. When using the classical coaxial wire method, both wires are individually matched to $Z_{c}$. By using two wires each carrying a signal 180$^{o}$ out of phase with one another we produce a field pattern similar to a dipole and thus measure the dipole impedance in either the horizontal or vertical plane depending on the orientation of the two wires. 
+As with the single wire measurements the transmission parameter is measured. Both wires are individually matched to $Z_{c}$. By using two wires each carrying a signal $\pi$ out of phase with one another we produce a field pattern similar to a dipole and thus measure the dipole impedance in either the horizontal or vertical plane depending on the orientation of the two wires. 
 
-What is directly measured is the longitudinal impedance of just the dipole impedance, as is to be expected from the Panofsky-Wenzel theorem (see Chap. \ref{chap:wake_imp} for further explanation). 
+What is directly measured is the longitudinal impedance of just the dipole impedance, as is to be expected from the Panofsky-Wenzel theorem [cite Walling, Nassibian and Sacherer]. 
 
 For two wire placed as positions $x = \pm a$, the current density is given by \cite{Tsutsui:OnSingleWire}
 
@@ -310,8 +318,11 @@ where $\bar{Z}_{x/y}$ can be measured independently which gives a method of obta
 \label{fig:wire-sim-model}
 \end{figure}
 
+For the simulations of a structure with top/bottom, left/right symmetry a structure comprised of two parallel ferrite plates is measured. For the simulated measurements the frequency domain code HFSS [hfss cite] is used. This allows the definition of waveguide ports on extremities of the measured structure (shown in Fig.~\ref{fig:wire-sim-model} where a half structure is used) and the measurement transmission parameters between the two waveguide ports. This allows the automatic matching of the structure removing the reflections due to the connection to the external circuit present in physical measurements. 
 
-For the simulations of two parallel ferrite plates the following parameters were used; for the displaced single wire measurements a wire of 0.3mm in radius, and the following displacement used to acquire the total transverse terms:
+In this simulations the ferrite used is modelled on the 4A4 ferrite, the permitivitty of which is $\epsilon^{'} = 10$, and the frequency dependent permeability given in Fig.~\ref{fig:4a4permeability}. The conductivity is $\sigma_{4A4} = 10^{-6} S m^{-1}$, usual for vacuum ferrites to prevent electrostatic build up.
+
+For these simulations the following parameters were used; for the displaced single wire measurements a wire of 0.3mm in radius, and the following displacement used to acquire the total transverse terms:
 
 \begin{enumerate}
 \item{In the horizontal axis -  displaced between -6mm to +6mm at intervals of 2mm}

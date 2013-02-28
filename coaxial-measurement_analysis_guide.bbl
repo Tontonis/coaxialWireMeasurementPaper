@@ -14,6 +14,14 @@ H.~Hahn,
   {\path{doi:10.1103/PhysRevSTAB.7.012001}}.
 \newline\urlprefix\url{http://link.aps.org/doi/10.1103/PhysRevSTAB.7.012001}
 
+\bibitem{Hahn:ValidityImpMeas}
+H.~Hahn, \href{http://link.aps.org/doi/10.1103/PhysRevSTAB.3.122001}{Validity
+  of coupling impedance bench measurements}, Phys. Rev. ST Accel. Beams 3
+  (2000) 122001.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevSTAB.3.122001}
+  {\path{doi:10.1103/PhysRevSTAB.3.122001}}.
+\newline\urlprefix\url{http://link.aps.org/doi/10.1103/PhysRevSTAB.3.122001}
+
 \bibitem{Jensen:ImprovLogForm}
 E.~Jensen, An improved log-formula for homogeneously distributed impedance,
   Tech. Rep. CERN-PS-RF-NOTE-2000-001, CERN, Geneva (Jan 2000).
