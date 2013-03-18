@@ -1,0 +1,41 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{Hahn:BenchMeasInter}
+H.~Hahn,
+  \href{http://link.aps.org/doi/10.1103/PhysRevSTAB.7.012001}{Interpretation of
+  coupling impedance bench measurements}, Phys. Rev. ST Accel. Beams 7 (2004)
+  012001.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevSTAB.7.012001}
+  {\path{doi:10.1103/PhysRevSTAB.7.012001}}.
+\newline\urlprefix\url{http://link.aps.org/doi/10.1103/PhysRevSTAB.7.012001}
+
+\bibitem{Hahn:ValidityImpMeas}
+H.~Hahn, \href{http://link.aps.org/doi/10.1103/PhysRevSTAB.3.122001}{Validity
+  of coupling impedance bench measurements}, Phys. Rev. ST Accel. Beams 3
+  (2000) 122001.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevSTAB.3.122001}
+  {\path{doi:10.1103/PhysRevSTAB.3.122001}}.
+\newline\urlprefix\url{http://link.aps.org/doi/10.1103/PhysRevSTAB.3.122001}
+
+\bibitem{Jensen:ImprovLogForm}
+E.~Jensen, An improved log-formula for homogeneously distributed impedance,
+  Tech. Rep. CERN-PS-RF-NOTE-2000-001, CERN, Geneva (Jan 2000).
+
+\bibitem{Chao:PhysColEff}
+A.~W. Chao, Physics of collective beam instabilities in high energy
+  accelerators, Wiley, New York, NY, 1993.
+
+\bibitem{Tsutsui:OnSingleWire}
+H.~Tsutsui, On single wire technique for transverse coupling impedance
+  measurement, Tech. Rep. SL-Note-2002-034-AP, CERN, Geneva (Oct 2002).
+
+\bibitem{Zannini:cCoreFerrite}
+C.~Zannini, G.~Rumolo, V.~Vaccaro, Effect of the tem mode on the kicker
+  impedance, Tech. Rep. CERN-ATS-2012-134, CERN, Geneva (May 2012).
+
+\end{thebibliography}

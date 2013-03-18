@@ -1,0 +1,21 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: coaxial-measurement_analysis_guidePRSTAB - Copy.aux
+The style file: elsarticle-num.bst
+Database file #1: coaxWireMeasBib.bib
+I was expecting an "="---line 589 of file coaxWireMeasBib.bib
+ : /  
+ :    publisher = {American Physical Society}
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1069 of file coaxWireMeasBib.bib
+ :       
+ :       institution  = "CERN",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field part---line 1122 of file coaxWireMeasBib.bib
+ :       title        = 
+ :                      “3rd MKI Strategy Discussion: 20/02/2012 Vacuum, Ferrite, Cooling, Beam Impedance and Pre-Scrubbing”,
+I'm skipping whatever remains of this entry
+You're missing a field part---line 1132 of file coaxWireMeasBib.bib
+ :       title        = 
+ :                      “ “8th MKI Strategy Meeting”,
+I'm skipping whatever remains of this entry
+(There were 4 error messages)

@@ -1,0 +1,57 @@
+\tocdepth@munge 
+\contentsline {section}{\numberline {}Contents}{1}{}
+\tocdepth@restore 
+\contentsline {section}{\numberline {1}Introduction}{1}{}
+\contentsline {subsection}{\numberline {1.1}Submitting to APS Journals}{2}{}
+\contentsline {subsection}{\numberline {1.2}Contact Information}{2}{}
+\contentsline {section}{\numberline {2}Some \LaTeXe \ Basics}{2}{}
+\contentsline {subsection}{\numberline {2.1}Useful \LaTeXe \ Markup}{2}{}
+\contentsline {subsubsection}{\numberline {}Fonts}{2}{}
+\contentsline {subsubsection}{\numberline {}User-defined macros}{2}{}
+\contentsline {subsubsection}{\numberline {}Symbols}{3}{}
+\contentsline {subsection}{\numberline {2.2}Using \LaTeXe \ packages with \revtex }{3}{}
+\contentsline {section}{\numberline {3}The Document Preamble}{4}{}
+\contentsline {subsection}{\numberline {3.1}The \emph {documentclass} line}{4}{}
+\contentsline {subsection}{\numberline {3.2}Loading other packages}{4}{}
+\contentsline {section}{\numberline {4}The Front Matter}{4}{}
+\contentsline {subsection}{\numberline {4.1}Setting the title}{4}{}
+\contentsline {subsection}{\numberline {4.2}Specifying a date}{4}{}
+\contentsline {subsection}{\numberline {4.3}Specifying authors and affiliations}{5}{}
+\contentsline {subsubsection}{\numberline {}Collaborations}{5}{}
+\contentsline {subsubsection}{\numberline {}Footnotes for authors, collaborations, affiliations or title}{5}{}
+\contentsline {subsubsection}{\numberline {}Specifying first names and surnames}{6}{}
+\contentsline {subsection}{\numberline {4.4}The abstract}{6}{}
+\contentsline {subsection}{\numberline {4.5}PACS codes}{6}{}
+\contentsline {subsection}{\numberline {4.6}Keywords}{7}{}
+\contentsline {subsection}{\numberline {4.7}Institutional report numbers}{7}{}
+\contentsline {subsection}{\numberline {4.8}maketitle}{7}{}
+\contentsline {section}{\numberline {5}The body of the paper}{7}{}
+\contentsline {subsection}{\numberline {5.1}Section headings}{7}{}
+\contentsline {subsection}{\numberline {5.2}Paragraphs and General Text}{7}{}
+\contentsline {subsection}{\numberline {5.3}One-column vs. two-column}{7}{}
+\contentsline {subsection}{\numberline {5.4}Cross-referencing}{8}{}
+\contentsline {subsection}{\numberline {5.5}Acknowledgments}{8}{}
+\contentsline {subsection}{\numberline {5.6}Appendices}{8}{}
+\contentsline {section}{\numberline {6}Math and Equations}{8}{}
+\contentsline {subsection}{\numberline {6.1}Math in text}{8}{}
+\contentsline {subsection}{\numberline {6.2}Text in math}{9}{}
+\contentsline {subsection}{\numberline {6.3}Displayed equations}{9}{}
+\contentsline {subsection}{\numberline {6.4}Numbering displayed equations}{9}{}
+\contentsline {subsection}{\numberline {6.5}Cross-referencing displayed equations}{9}{}
+\contentsline {subsection}{\numberline {6.6}Using the AMS packages \classoption {amsfonts}, \classoption {amssymb}, and \classoption {amsmath}}{10}{}
+\contentsline {subsection}{\numberline {6.7}Bold symbols in math}{10}{}
+\contentsline {section}{\numberline {7}Footnotes}{11}{}
+\contentsline {section}{\numberline {8}Citations and References}{11}{}
+\contentsline {subsection}{\numberline {8.1}Author/Year (Non-numeric) Citations}{11}{}
+\contentsline {subsection}{\numberline {8.2}Using BibT\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor \@m }{12}{}
+\contentsline {section}{\numberline {9}Figures and Artwork}{12}{}
+\contentsline {section}{\numberline {10}Tables}{13}{}
+\contentsline {subsection}{\numberline {10.1}Aligning on a decimal point}{13}{}
+\contentsline {subsection}{\numberline {10.2}Footnotes in Tables}{13}{}
+\contentsline {subsection}{\numberline {10.3}Dealing with Long Tables}{14}{}
+\contentsline {section}{\numberline {11}Placement of Figures, Tables, and Other Floats}{14}{}
+\contentsline {section}{\numberline {12}Rotating Floats}{15}{}
+\contentsline {section}{\numberline {13}\revtex \nobreakspace {}4 symbols and the \classname {revsymb} package}{15}{}
+\contentsline {section}{\numberline {14}Other \revtex \nobreakspace {}4 Features}{15}{}
+\contentsline {subsection}{\numberline {14.1}Job-specific Override Files}{15}{}
+\contentsline {section}{\numberline {}References}{15}{}

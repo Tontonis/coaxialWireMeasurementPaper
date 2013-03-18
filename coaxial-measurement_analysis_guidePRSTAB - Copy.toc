@@ -1,0 +1,13 @@
+\tocdepth@munge 
+\contentsline {section}{\numberline {}Contents}{1}{section*.1}
+\tocdepth@restore 
+\contentsline {section}{\numberline {}Introduction}{1}{section*.2}
+\contentsline {section}{\numberline {}Coaxial Wire Measurements of Beam Impedance}{1}{section*.3}
+\contentsline {section}{\numberline {}Formalism of the Coaxial Wire in the Device Under Test}{2}{section*.4}
+\contentsline {subsubsection}{\numberline {}Two Wire Measurements}{3}{section*.5}
+\contentsline {section}{\numberline {}The Impedance of a Displaced Coaxial Wire in a Device with top/bottom, left/right Symmetry}{3}{section*.6}
+\contentsline {section}{\numberline {}Simulated Measurements of Coaxial Wire Technique between two Parallel Plates}{4}{section*.7}
+\contentsline {section}{\numberline {}The Impedance of a Displaced Coaxial Wire in an Asymmetric Device}{6}{section*.8}
+\contentsline {section}{\numberline {}Simulated Measurements of Coaxial Wire Technique in a C-Core Kicker}{7}{section*.9}
+\contentsline {section}{\numberline {}Summary}{8}{section*.10}
+\contentsline {section}{\numberline {}References}{8}{section*.11}
